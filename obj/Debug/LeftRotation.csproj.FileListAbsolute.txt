@@ -1,0 +1,6 @@
+D:\HackerRank\LeftRotation\bin\Debug\LeftRotation.exe.config
+D:\HackerRank\LeftRotation\bin\Debug\LeftRotation.exe
+D:\HackerRank\LeftRotation\bin\Debug\LeftRotation.pdb
+D:\HackerRank\LeftRotation\obj\Debug\LeftRotation.exe
+D:\HackerRank\LeftRotation\obj\Debug\LeftRotation.pdb
+D:\HackerRank\LeftRotation\bin\Debug\OUTPUT_PATH.txt
